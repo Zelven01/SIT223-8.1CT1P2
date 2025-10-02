@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-        nodejs "node14"   // for npm
+        nodejs "nodenpm"   // for npm
     }
 
     stages {
